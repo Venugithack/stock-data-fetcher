@@ -41,6 +41,3 @@ Global Markets
     Nasdaq Composite (US) - LTP: 14,200, Change: -50, Change%: -0.35%
 ```
 
-## Author
-Developed by **The Morning Post** for automated premarket report generation.
-
